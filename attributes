@@ -1,0 +1,5 @@
+
+(MeshVertexAttributeId(0) - Vertex_Normal, Float32x3(...))
+(MeshVertexAttributeId(1) - Vertex_Uv, Float32x3(...))
+(MeshVertexAttributeId(2) - Vertex_Tangent, Float32x2(...))
+(MeshVertexAttributeId(3) - Vertex_color, Float32x4(...))
